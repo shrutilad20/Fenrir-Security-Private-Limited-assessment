@@ -1,5 +1,4 @@
-// ─── LoginPage.jsx ─────────────────────────────────────────────
-
+// ─── LoginPage.jsx 
 import { useState } from "react";
 
 export default function LoginPage({ isDark, setIsDark, setScreen }) {

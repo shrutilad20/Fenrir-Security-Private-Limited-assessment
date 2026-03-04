@@ -1,15 +1,3 @@
-// ─── Sidebar.jsx ──────────────────────────────────────────────────────────────
-// Reusable sidebar used in Dashboard and ScanDetail screens.
-//
-// Props:
-//   t          — theme object from shared.jsx
-//   isDark     — boolean
-//   setIsDark  — setter
-//   activeNav  — string key of active nav item
-//   setActiveNav — setter
-//   setScreen  — setter for top-level screen state
-//   mobile     — boolean, renders as fixed overlay when true
-//   onClose    — callback to close mobile drawer
 
 import { themes } from "../shared/shared.jsx";
 const NAV_ITEMS = [

@@ -1,6 +1,3 @@
-// ─── shared.jsx ───────────────────────────────────────────────────────────────
-// Shared theme tokens, mock data, utility components (Toast, Badge, etc.)
-// Import from this file in all page components.
 
 export const themes = {
   dark: {

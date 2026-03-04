@@ -1,4 +1,4 @@
-// ─── ScanDetailPage.jsx ─────────────────────────────────────────
+// ─── ScanDetailPage.jsx
 
 import { useState, useRef, useEffect } from "react";
 import Sidebar from "../components/Sidebar.jsx";

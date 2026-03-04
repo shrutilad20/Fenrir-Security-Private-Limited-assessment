@@ -1,16 +1,4 @@
-// ─── App.jsx ──────────────────────────────────────────────────────────────────
-// Root component — manages global state (theme + current screen)
-// and renders the correct page.
-//
-// Screens:
-//   "login"       → LoginPage
-//   "dashboard"   → DashboardPage
-//   "scan-detail" → ScanDetailPage
-//
-// Usage (Vite + React):
-//   1. Place all .jsx files in src/
-//   2. In main.jsx: import App from './App.jsx'; render <App />
-//   3. npm run dev
+
 import { useState } from "react";
 
 import LoginPage from "./pages/LoginPage.jsx";
